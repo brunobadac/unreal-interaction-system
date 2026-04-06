@@ -45,9 +45,10 @@ This allows different objects to respond to interaction without requiring direct
 
 ## 🚀 Future Improvements
 
-* Add highlight effect when aiming at objects
-* Add UI prompt ("Press E to interact")
-* Expand to support animations and Niagara effects
-* Add sound feedback for interactions
+- Add visual feedback (outline/highlight) when targeting interactable objects  
+- Implement a UI prompt ("Press E to interact")  
+- Support different interaction types (hold, toggle, timed interaction)  
+- Integrate animations and Niagara effects for feedback  
+- Improve trace logic with distance prioritisation and object filtering  
 
 ---
