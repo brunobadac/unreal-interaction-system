@@ -36,7 +36,7 @@ If so, it sends an interaction message using the Blueprint Interface.
 
 ### 🧱 Interactable Object
 
-![Interactable Object](docs/images/interactable.png)
+![Interactable Object](docs/images/interactable-object.png)
 
 Each interactable actor implements a shared interface with an Interact function.
 This allows different objects to respond to interaction without requiring direct references or casting.
