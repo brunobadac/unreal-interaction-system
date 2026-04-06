@@ -52,3 +52,8 @@ This allows different objects to respond to interaction without requiring direct
 - Improve trace logic with distance prioritisation and object filtering  
 
 ---
+
+## ⚠️ Note
+
+Some images are temporary placeholders for documentation purposes.  
+They will be replaced with screenshots from the actual project as development progresses.
