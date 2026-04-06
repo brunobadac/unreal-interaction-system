@@ -27,7 +27,7 @@ If the hit actor implements the interaction interface, it is stored as the curre
 
 ### 🎮 Interaction Input
 
-![Interact Input](docs/images/interact-input.png)
+![Interact Input](docs/images/interation-input.png)
 
 When the player presses the interact key (E), the system checks if a valid interactable object is stored.
 If so, it sends an interaction message using the Blueprint Interface.
